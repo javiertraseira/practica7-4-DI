@@ -43,7 +43,7 @@ public class VentanaPrincipalController implements Initializable {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/Vista/VentanaSecundaria.fxml"));
         Pane root = (Pane) loader.load();
         
-
+        //Actualizar información del modelo
         
         Scene scene = new Scene(root);
         //Se crea un nuevo stage
@@ -51,7 +51,13 @@ public class VentanaPrincipalController implements Initializable {
         stageWindow.setTitle("Ventana Secundaria");
         //stageWindow.initModality(Modality.APPLICATION_MODAL);
         stageWindow.setScene(scene);
+        
+        // aquí deberá de esperar a los datos que lleguen de la ventana hija si fuera el caso
         stageWindow.show();
+        
+        // regenerar información
+        
+       
     }
 
     
