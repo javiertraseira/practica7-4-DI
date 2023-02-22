@@ -14,5 +14,6 @@ Realiza las modificaciones necesarias para que las dos ventanas, que utilizan el
 
 Mejora el ejercicio anterior para conseguir lo siguiente:
 - Agregar dos *checkbox* en las ventanas y que sus valores marcados se actualicen entre las ventanas. 
-- Haz también lo propio con otrocampo de tipo Textfield.
+- Haz también lo propio con otrocampo de tipo *Textfield*.
+- Agrega funcionalidad para añadir nuevos elementos al listado desde la ventana principal (opcional)
 - Prueba añadir combobox (opcional)
