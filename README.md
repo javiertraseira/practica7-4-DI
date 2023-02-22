@@ -4,7 +4,7 @@ Dado el código base de un proyecto en este repositorio (*MVCJavaFX1-main*) de d
 
 # Parte 1
 
-Haz las modificaciones necesarias para que las dos ventanas, que utilizan el elemento *ListView,* se comuniquen entre sí y los cambios en una lleguen a los de la otra.
+Realiza las modificaciones necesarias para que las dos ventanas, que utilizan el elemento *ListView,* se comuniquen entre sí y los cambios en una lleguen a los de la otra.
 
 
 ![](media/dd1dfd4bf43888bc1fd7e1f56543dbf1.png)
