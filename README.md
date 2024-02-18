@@ -1,4 +1,4 @@
-# Práctica 7.4 Modificación de objetos entre ventanas en JavaFX
+# Práctica 7.4 Gestión de objetos en ventanas múltiples en JavaFX
 
 Dado el código base de un proyecto en este repositorio (*MVCJavaFX1-main*) de dos ventanas que hacen uso del MVC con sus correspondientes elementos ya declarados.
 
