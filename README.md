@@ -1,6 +1,6 @@
 # Práctica 7.4 Gestión de objetos en ventanas múltiples en JavaFX
 
-Dado el código base de un proyecto en este repositorio (*MVCJavaFX1-main*) de dos ventanas que hacen uso del MVC con sus correspondientes elementos ya declarados.
+Dado el código base de un proyecto en la carpeta Modelos de este repositorio de dos ventanas que hacen uso del MVC con sus correspondientes elementos ya declarados.
 
 ## Parte 1
 
@@ -16,8 +16,5 @@ Realiza las modificaciones necesarias para que las dos ventanas, que utilizan el
 Mejora el ejercicio anterior para conseguir lo siguiente:
 
 - Agrega una nueva funcionalidad para añadir un botón que permita añadir elementos al listado desde la ventana secundaria.
-
-## Parte 3 (opcional)
-
 - Haz las modificaciones necesarias para agregar un *TableView* en vez de un *ListView* con varias columnas.
-- Agrega un botón editar para modificar los valores de una línea concreta.
+- Agrega un botón editar para modificar los valores de una línea concreta. [opcional]
