@@ -1,6 +1,6 @@
 # Práctica 7.4 Gestión de objetos en ventanas múltiples en JavaFX
 
-Dado el código base de un proyecto en la carpeta Modelos de este repositorio de dos ventanas que hacen uso del MVC con sus correspondientes elementos ya declarados.
+Dado el código base de la carpeta Modelos en este repositorio (para IntelliJ y Netbeans) de dos ventanas que hacen uso del MVC con sus correspondientes elementos ya declarados.
 
 ## Parte 1
 
