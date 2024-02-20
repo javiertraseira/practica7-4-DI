@@ -6,6 +6,6 @@ module javafx.practicajavafx_4 {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens javafx.controlador to javafx.fxml;
-    exports javafx.controlador;
+    opens javafx to javafx.fxml;
+    exports javafx;
 }
