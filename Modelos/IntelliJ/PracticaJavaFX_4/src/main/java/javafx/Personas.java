@@ -23,7 +23,7 @@ public class Personas {
         personas.add("Ivan");    
         personas.add("Ruben");
         personas.add("Jesus");     
-        personas.add("Patricia");        
+        personas.add("Fatima");        
     }
     
     public ObservableList<String> getPersonas() {
