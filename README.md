@@ -15,7 +15,7 @@ Realiza las modificaciones necesarias para que las dos ventanas, que utilizan el
 
 Mejora el ejercicio anterior para conseguir lo siguiente:
 
-- Agrega una nueva funcionalidad para añadir un botón que permita añadir elementos al listado desde la ventana secundaria.
+- Agrega una nueva funcionalidad para añadir un **botón** que permita añadir elementos al listado desde la ventana secundaria.
 - Agrega una funcionalidad para permitir ordenar por las columnas indicadas en el checkbox concreto.
 - Haz las modificaciones necesarias para agregar un **TableView** en vez de un **ListView** con varias columnas.
 - Agrega un botón editar para modificar los valores de una línea concreta. 
