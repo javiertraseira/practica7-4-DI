@@ -6,7 +6,7 @@ Dado el **código base** de un proyecto en la carpeta *Modelos* en este mismo re
 
 Realiza las modificaciones necesarias para que las dos ventanas, que utilizan el elemento **ListView**, se comuniquen entre sí, es decir, que los cambios en una lleguen a la otra.
 - Agregar dos **checkbox** en las ventanas y que sus valores marcados se actualicen entre las ventanas. 
-- Agrega un elemento al menú superior que permita guardar el listado en un fichero.
+- Agrega un elemento al menú superior que permita **guardar** el listado mostrado en un fichero de texto.
 
 
 ![](media/dd1dfd4bf43888bc1fd7e1f56543dbf1.png)
